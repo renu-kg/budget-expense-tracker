@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef1f7;
+    padding: 40px;
+    margin: 0;
+}
+
+form, table {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+input, select, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+.message {
+    text-align: center;
+    color: green;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+}
