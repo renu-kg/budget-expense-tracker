@@ -42,17 +42,6 @@ A web-based application that allows users to manage their income, track daily an
 - Secure SQL with prepared statements
 - Use of aggregate functions (e.g., SUM)
 - Session handling and user authentication
-
----
-
-## 📸 Screenshots
-
-Screenshots of:
-- User Dashboard
-- Add Budget / Expenses
-- Recurring Transactions
-- Admin Management Panel  
-
 ---
 
 ## 👥 Team Members
